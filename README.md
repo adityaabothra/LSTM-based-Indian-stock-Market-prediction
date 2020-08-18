@@ -18,7 +18,7 @@ It has different sections in the process
 8. Prepare test set for dates that you have the data for (you can do it by dividing training set into 80-20 but i prefer to do it for 2 weeks of latest data,
                                                         (so keep changing the dates for 2 weeks before and after to make ur model learn the basic and the most recent)
 9. Fetch the predicted stock price and get a list of future values.
-10. plot the graph for visualisation of predicted vs real 
+10. plot the graph for visualisation of predicted vs real(its erroneous for 1st day with huge value but that is to be ignored, as it overlaps with datas to make ungapped graph)
 11. measure Root mean square error(loss), the closer it is to 0, the better your model behaves.
 
 ![result of prediction](snapshot.jfif)
