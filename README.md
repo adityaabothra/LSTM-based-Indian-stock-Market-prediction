@@ -24,5 +24,5 @@ It has different sections in the process
 
 NOTE: I dont suggest trading or using this model to work in the stock market,as it does not take into account most of the other features. The model just accounts on the basis of Close price, which is not the only parameter that should be involved(Close price is the stable price each day, as the opening price for the following day can be greater than previous day's closing which would give gaps into our data if accounted simultaneously). Accuracies with 7-13 RMSE are pretty common with this model. There are many more fututre studies that I will be coding or updating this with more principles and parameters in the Portfolio domain. Any people who want to add any functionality or suggest any cahnges are most welcome. Any usage of this coding repository will be appreciated if you can tag me in the place you want to publish this. Also, i have gone through a lot of tutorials and this is a compilation of all of them that I have read.
 
-LinkedIn Url:
+Tag me here or you can just put an appreciation in DM-LinkedIn Url:
 www.linkedin.com/in/adityaabothra
